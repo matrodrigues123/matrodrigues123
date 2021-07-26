@@ -38,4 +38,4 @@
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=matrodrigues123&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/VergaraC/VergaraC)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matrodrigues&theme=dracula&hide_border=true&exclude_repo=ludum-dare-47)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matrodrigues&theme=dracula&hide_border=true&exclude_repo=ludum-dare-47) -->
