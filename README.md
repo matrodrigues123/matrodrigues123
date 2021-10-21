@@ -3,7 +3,7 @@
 </strong>
 
 <p >
-    I'm an Engineering student who found passion in programming. Taking advantage of the solid math background provided by my major, I'm currently enrolled in classes, personal projects, and an internship that will allow me to grow as a developer.
+    I'm an Engineering student who found passion in programming. Taking advantage of the solid math background provided by my major, I'm currently enrolled in classes, personal projects, and a work experience that will allow me to grow as a developer.
 </p>
 
 
