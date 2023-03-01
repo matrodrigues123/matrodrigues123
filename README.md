@@ -3,7 +3,7 @@
 </strong>
 
 <p >
-    I'm an Engineering student who found passion in programming. Taking advantage of the solid math background provided by my major, I'm currently enrolled in classes, personal projects, and a work experience that will allow me to grow as a developer.
+    As an Engineering student, I have discovered a true passion for programming. I love the challenge of solving complex problems and the creativity involved in designing elegant solutions. I have taken advantage of the solid math background provided by my major to deepen my knowledge of computer science and programming, and I'm always looking for new opportunities to learn and grow.
 </p>
 
 
