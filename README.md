@@ -32,10 +32,11 @@
 
 
 
-
+<!--
 <br />
 <br />
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=matrodrigues123&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/matrodrigues123)
 <br/>
+-->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matrodrigues&theme=dracula&hide_border=true&exclude_repo=ludum-dare-47) -->
