@@ -19,6 +19,7 @@
     <a href="mailto:matheusraofc@gmail.com">Email</a>
 </p>
 
+<!--
 <h3>
     What i've been working with:
 </h3>
